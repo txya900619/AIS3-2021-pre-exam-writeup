@@ -1,5 +1,4 @@
 # AIS3 Pre-exam CTF 2021 writeup
-[TOC]
 ## Welcome
 ### Cat Slayer ᶠᵃᵏᵉ | Nekogoroshi
 - 我就爛，這題我直接用硬爆的 owo
