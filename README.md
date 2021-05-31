@@ -1,6 +1,3 @@
----
-tags: writeup
----
 # AIS3 Pre-exam CTF 2021 writeup
 [TOC]
 ## Welcome
